@@ -59,10 +59,10 @@ Jika Anda memiliki pertanyaan atau saran, silakan hubungi:
 
 ## 🙏 Acknowledgments
 
-- Tim Vidio untuk menyediakan platform streaming yang menarik untuk dianalisis
-- Komunitas open source yang menyediakan tools dan libraries yang digunakan
-- Google Play Store dan App Store untuk data review publik
-
+- Tim Vidio yang telah menghadirkan platform streaming menarik, sehingga layak untuk dianalisis lebih lanjut.
+- Komunitas open source yang telah berkontribusi dalam menyediakan berbagai tools dan library yang digunakan dalam proyek ini.
+- Google Play Store sebagai sumber data ulasan publik yang digunakan dalam analisis sentimen.
+- 
 ---
 
 **Catatan**: Pastikan untuk menggunakan data review secara etis dan sesuai dengan terms of service platform yang bersangkutan.
